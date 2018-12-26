@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>close.png</file>
+        <file>back.png</file>
+        <file>back_gray.png</file>
+        <file>next.png</file>
+        <file>next_gray.png</file>
+    </qresource>
+</RCC>
